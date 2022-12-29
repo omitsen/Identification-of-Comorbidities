@@ -1,2 +1,2 @@
 # Identification-of-Comorbidities
-All the analyses are performed using R and Microsoft excel.
+All analyses were performed using R and Microsoft Excel.
